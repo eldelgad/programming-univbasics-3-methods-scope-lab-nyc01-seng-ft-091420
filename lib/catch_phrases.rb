@@ -9,6 +9,6 @@ def toadstool
 end
 
 def link
-  status = "It's Dangerous To Go Alone! Take This."
-  puts status
+  hero = "It's Dangerous To Go Alone! Take This."
+  puts hero
 end
