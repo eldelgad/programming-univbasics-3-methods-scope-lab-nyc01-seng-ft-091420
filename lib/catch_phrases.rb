@@ -13,7 +13,7 @@ def all_phrases
   end
   
   puts toadstool
-
+  
   def link
     hero = "It's Dangerous To Go Alone! Take This."
     puts hero
